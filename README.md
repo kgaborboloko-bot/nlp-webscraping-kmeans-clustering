@@ -1,8 +1,8 @@
 # nlp-webscraping-kmeans-clustering
 ## Overview
 
-This project covers three applied data science topics — time series analysis, 
-natural language processing, and unsupervised machine learning — plus a 
+This project covers three applied data science topics such as time series analysis, 
+natural language processing, unsupervised machine learning and
 K-Means clustering task for customer segmentation.
 
 ---
